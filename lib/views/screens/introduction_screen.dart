@@ -43,7 +43,7 @@ class _intro_pageState extends State<intro_page> {
                 decoration: BoxDecoration(
                     image: DecorationImage(
                         image: NetworkImage(
-                            "https://i.pinimg.com/736x/86/9f/4d/869f4d30ba3106f79394e7a73b2e35e1.jpg"),
+                            "https://i.pinimg.com/736x/b2/50/ff/b250ff34d91466a926013b3847cd35f6.jpg"),
                         fit: BoxFit.cover)),
               ),
             ),
